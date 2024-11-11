@@ -16,5 +16,5 @@ The YOLOv11 model, utilizing pretrained weights, was chosen for object detection
 
 # Results
 The model demonstrates high accuracy in detecting grape clusters, making it a valuable tool for vineyard management and data collection.
-![download (1)](https://github.com/user-attachments/assets/59d0a293-c14a-404b-9801-f66df6eb0c02)
+
 ![download](https://github.com/user-attachments/assets/6d7cae91-8feb-4d92-a06c-f57d12d3627f)
